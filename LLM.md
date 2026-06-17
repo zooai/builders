@@ -1,4 +1,4 @@
-# LLM.md - Zoo Builders
+# Zoo Builders
 
 **Last Updated**: 2026-04-29
 
